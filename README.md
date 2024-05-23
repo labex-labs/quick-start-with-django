@@ -9,7 +9,7 @@ This tutorial is a hands-on adaptation of the official Django beginner's example
 
 ## Scenarios
 
-|   Index | Name                                        | Difficulty   | URL                                                                  |
+|   Index | Name                                        | Difficulty   | Practice                                                             |
 |---------|---------------------------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Creation of a Basic Poll Application      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153741'>Start Lab</a> |
 |       2 | 📖 Set Up the Database                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153742'>Start Lab</a> |
@@ -18,4 +18,9 @@ This tutorial is a hands-on adaptation of the official Django beginner's example
 |       5 | 📖 Create Some Automated Tests               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153745'>Start Lab</a> |
 |       6 | 📖 Add a Stylesheet and an Image             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153746'>Start Lab</a> |
 |       7 | 📖 Customizing Django's Admin Site           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/153747'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
