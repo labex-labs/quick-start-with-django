@@ -1,6 +1,6 @@
 # Quick Start with Django
 
-![Quick Start with Django](https://cover-creator.labex.io/quick-start-with-django.png)
+![Quick Start with Django](https://cover-creator.appbot.io/quick-start-with-django.png)
 
 This tutorial is a hands-on adaptation of the official Django beginner's example. It will help you quickly get started with Django using LabEx VM.
 
