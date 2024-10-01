@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                         | Difficulty   | Practice                                                                                                                   |
-|---------|----------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                        | Difficulty   | Practice                                                                                                                   |
+|---------|---------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Creation of a Basic Poll Application      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/django-creation-of-a-basic-poll-application-153741'>Start Lab</a>      |
 |       2 | 📖 Set Up the Database                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/django-set-up-the-database-153742'>Start Lab</a>                       |
 |       3 | 📖 Creating the Public Interface Views       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/django-creating-the-public-interface-views-153743'>Start Lab</a>       |
